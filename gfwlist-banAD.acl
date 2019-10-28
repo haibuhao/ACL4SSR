@@ -7237,3 +7237,8 @@
 (^|\.)neulion\.com$
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
+#华文电视
+(^|\.)api\.ocnttv\.com$
+(^|\.)dataapi\.ocnttv\.com$
+(^|\.)interface\.5itv\.tv$
+(^|\.)backstage\.5itv\.tv$
