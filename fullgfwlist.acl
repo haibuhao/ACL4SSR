@@ -5777,4 +5777,7 @@
 (^|\.)flzbcdn\.xyz$
 
 #华文电视
-(^|\.)ocnttv\.com$
+(^|\.)api\.ocnttv\.com$
+(^|\.)dataapi\.ocnttv\.com$
+(^|\.)interface\.5itv\.tv$
+(^|\.)backstage\.5itv\.tv$
